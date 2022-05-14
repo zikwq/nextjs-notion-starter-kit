@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: o-id,
 
   // basic site info (required)
   name: 'o-id Notion blog',
@@ -19,8 +19,8 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'chusight1',
   github: 'chusight',
-  linkedin: '',
-  instagram: 'onet2lee',
+  // linkedin: '',
+  // instagram: 'onet2lee',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
