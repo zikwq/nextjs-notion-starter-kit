@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'chusight1',
   github: 'chusight',
+  zhihu: 'chusight',
   // linkedin: '',
   // instagram: 'onet2lee',
 
